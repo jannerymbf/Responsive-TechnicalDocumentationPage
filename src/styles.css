@@ -143,6 +143,11 @@ aside .nav__item:visited {
     border-bottom: none;
   }
 
+  aside nav ul li {
+    padding: 14px 30px;
+  
+  }
+
   main {
     width: 70vw;
     padding: 5px 30px 30px 30px;
